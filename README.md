@@ -70,7 +70,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/zhorabay/testing-practice/issues/3)
+Feel free to check the [issues page](https://github.com/zhorabay/testing-practice/issues/1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
